@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="950" height="257" viewBox="0 0 950 257">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1131" data-name="Rectangle 1131" width="950" height="257" transform="translate(105 5044)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Semi_Circle" data-name="Semi Circle" transform="translate(-105 -5044)" clip-path="url(#clip-path)">
+    <ellipse id="Ellipse_331" data-name="Ellipse 331" cx="462" cy="358" rx="462" ry="358" transform="translate(118 4565)" fill="#ecf8f8"/>
+    <g id="Ellipse_332" data-name="Ellipse 332" transform="translate(105 4565)" fill="none" stroke="#d2e8e8" stroke-width="3" stroke-dasharray="16">
+      <ellipse cx="475" cy="368" rx="475" ry="368" stroke="none"/>
+      <ellipse cx="475" cy="368" rx="473.5" ry="366.5" fill="none"/>
+    </g>
+  </g>
+</svg>
